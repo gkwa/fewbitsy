@@ -1,0 +1,18 @@
+[submodule "downcan"]
+	path = downcan
+	url = git@github.com:taylormonacelli/downcan.git
+[submodule "eachload"]
+	path = eachload
+	url = git@github.com:taylormonacelli/eachload.git
+[submodule "hiswho"]
+	path = hiswho
+	url = git@github.com:taylormonacelli/hiswho.git
+[submodule "hereville"]
+	path = hereville
+	url = git@github.com:taylormonacelli/hereville.git
+[submodule "myload"]
+	path = myload
+	url = git@github.com:taylormonacelli/myload.git
+[submodule "hiscrime"]
+	path = hiscrime
+	url = git@github.com:taylormonacelli/hiscrime.git
