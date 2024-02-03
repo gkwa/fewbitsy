@@ -16,3 +16,6 @@
 [submodule "hiscrime"]
 	path = hiscrime
 	url = git@github.com:taylormonacelli/hiscrime.git
+[submodule "eachland"]
+	path = eachland
+	url = git@github.com:taylormonacelli/eachland.git
